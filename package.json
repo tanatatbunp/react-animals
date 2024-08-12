@@ -1,7 +1,7 @@
 {
   "name": "animals",
   "version": "0.1.0",
-  "homepage": "https://gitname.github.io/react-animals",
+  "homepage": "https://tanatatbunp.github.io/react-animals",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
